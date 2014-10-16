@@ -1,0 +1,13 @@
+{
+  "name": "wilhelm-scream",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.1.1",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.11.0",
+    "popcornjs": "~1.5.10",
+    "purl": "~2.3.1",
+    "github-fork-ribbon-css": "~0.1.1"
+  },
+  "devDependencies": {}
+}
