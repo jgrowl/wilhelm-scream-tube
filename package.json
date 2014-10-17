@@ -1,7 +1,9 @@
 {
   "name": "wilhelm-scream",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+      "express": "^4.9.5"
+  },
   "devDependencies": {
     "connect": "^2.14.4",
     "connect-livereload": "^0.4.0",
@@ -24,8 +26,7 @@
     "gulp-useref": "^0.4.2",
     "jshint-stylish": "^0.2.0",
     "opn": "^0.1.1",
-    "wiredep": "^1.4.3",
-    "express": "^4.9.5"
+    "wiredep": "^1.4.3"
   },
   "engines": {
     "node": ">=0.10.0"
